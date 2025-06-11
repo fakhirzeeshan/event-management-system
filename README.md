@@ -36,9 +36,9 @@ A full-featured **MERN stack** event management platform with role-based access 
 
 ## 📸 Screenshots
 
-![Home Page](./server/screenshots/homepage.PNG)
-![Exhibitor Panel](./server/screenshots/exhibitorpanel.PNG)
-![Login Page](./server/screenshots/login.PNG)
+![Home Page](./server/screenshot/homepage.PNG)
+![Exhibitor Panel](./server/screenshot/exhibitorpanel.PNG)
+![Login Page](./server/screenshot/login.PNG)
 
 ## 🧪 Getting Started
 
