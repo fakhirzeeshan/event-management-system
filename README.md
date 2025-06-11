@@ -32,6 +32,14 @@ A full-featured **MERN stack** event management platform with role-based access 
 📧 fakhirzeeshan02@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan)
 
+---
+
+## 📸 Screenshots
+
+![Home Page](./server/screenshots/homepage.PNG)
+![Exhibitor Panel](./server/screenshots/exhibitorpanel.PNG)
+![Login Page](./server/screenshots/login.PNG)
+
 ## 🧪 Getting Started
 
 To run this project locally using MongoDB Atlas:
