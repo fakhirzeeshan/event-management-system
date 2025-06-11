@@ -25,12 +25,12 @@ A full-featured **MERN stack** event management platform with role-based access 
 
 ---
 
-##  Contact
+## 📫 Contact
 
-Fakhir Zeeshan
-📍 Bronx, NY
-📧 fakhirzeeshan02@gmail.com
-🔗 LinkedIn
+**Fakhir Zeeshan**  
+📍 Bronx, NY  
+📧 fakhirzeeshan02@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan)
 
 ## 🧪 Getting Started
 
