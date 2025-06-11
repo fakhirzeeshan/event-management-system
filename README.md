@@ -40,3 +40,13 @@ To run this project locally using MongoDB Atlas:
 
 ```bash
 git clone https://github.com/fakhirzeeshan/event-management-system.git
+
+### 3. Set Up Environment Variables
+
+You’ll need to add your own `.env` file in the `/server` directory to connect the backend to MongoDB Atlas.
+
+Create a file named `.env` and add the following:
+
+```env
+MONGODB_URI=your-mongodb-atlas-connection-uri
+PORT=5000
