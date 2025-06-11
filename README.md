@@ -1,0 +1,42 @@
+# 🎪 Event Management System
+
+A full-featured **MERN stack** event management platform with role-based access for Admin and Exhibitor users. This system allows event organizers to manage bookings, handle user roles, and provide real-time feedback for a seamless user experience.
+
+---
+
+## 🚀 Features
+
+- Admin and Exhibitor role-based login
+- Booking system for events or booths
+- User profile management
+- Email-based password recovery
+- React Toastify for real-time feedback
+- Fully responsive and user-friendly UI
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, Bootstrap, Axios, React Toastify  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB Atlas (Cloud)  
+- **Authentication:** JWT, Bcrypt  
+- **Tools:** Git, GitHub, Postman  
+
+---
+
+##  Contact
+
+Fakhir Zeeshan
+📍 Bronx, NY
+📧 fakhirzeeshan02@gmail.com
+🔗 LinkedIn
+
+## 🧪 Getting Started
+
+To run this project locally using MongoDB Atlas:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/fakhirzeeshan/event-management-system.git
